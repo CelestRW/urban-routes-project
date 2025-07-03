@@ -9,10 +9,7 @@ This project contains an automated test suite for the Urban Routes web applicati
 - `main.py` — Contains the test class and test methods using pytest  
 - `pages.py` — Page Object Model class with element locators and interaction methods  
 - `helpers.py` — Helper functions (e.g., URL reachability check, phone code retrieval)  
-- `data.py` — Test data constants used across tests  
-- `conftest.py` — pytest fixtures and setup (if any)  
-- `requirements.txt` — Python dependencies  
-- `README.md` — Project documentation  
+- `data.py` — Test data constants used across tests   
 
 ## Setup Instructions
 
